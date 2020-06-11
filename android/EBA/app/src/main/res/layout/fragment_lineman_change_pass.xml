@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nadu.myapplication.lineman_change_pass">
+
+    <!-- TODO: Update blank fragment layout -->
+    <WebView
+
+        android:id="@+id/line_change_pass"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    </WebView>
+
+</FrameLayout>

@@ -1,0 +1,84 @@
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
+\contentsline {section}{\numberline {1.1}PURPOSE}{1}
+\contentsline {section}{\numberline {1.2}SCOPE}{1}
+\contentsline {chapter}{\numberline {2}SYSTEM ANALYSIS}{3}
+\contentsline {section}{\numberline {2.1}EXISTING SYSTEM}{3}
+\contentsline {subsection}{\numberline {2.1.1}Proposed System}{3}
+\contentsline {subsection}{\numberline {2.1.2}Product Functions}{3}
+\contentsline {section}{\numberline {2.2}LIFE CYCLE MODEL}{4}
+\contentsline {section}{\numberline {2.3}FEASIBILITY STUDY}{5}
+\contentsline {subsection}{\numberline {2.3.1}Technical Feasibility}{6}
+\contentsline {subsection}{\numberline {2.3.2}Economical Feasibility}{6}
+\contentsline {subsection}{\numberline {2.3.3}Operational Feasibility}{6}
+\contentsline {subsection}{\numberline {2.3.4}Social feasibility}{7}
+\contentsline {section}{\numberline {2.4}GANTT CHART}{7}
+\contentsline {section}{\numberline {2.5}COST ESTIMATION}{8}
+\contentsline {section}{\numberline {2.6}SYSTEM REQUIREMENT STUDY}{10}
+\contentsline {subsection}{\numberline {2.6.1} Hardware Requirements}{10}
+\contentsline {subsection}{\numberline {2.6.2} Software Requirements}{10}
+\contentsline {subsection}{\numberline {2.6.3}Safety Requirements}{10}
+\contentsline {chapter}{\numberline {3}SYSTEM DESIGN}{11}
+\contentsline {section}{\numberline {3.1}DESIGN}{11}
+\contentsline {section}{\numberline {3.2}MODULES}{12}
+\contentsline {subsection}{\numberline {3.2.1}Login Interface Module}{12}
+\contentsline {subsection}{\numberline {3.2.2}Bill Payment Module}{12}
+\contentsline {subsection}{\numberline {3.2.3}New Connection Module}{12}
+\contentsline {subsection}{\numberline {3.2.4}Complaint Registration Module}{13}
+\contentsline {subsection}{\numberline {3.2.5}Notification Module}{13}
+\contentsline {section}{\numberline {3.3}USE CASE DIAGRAM}{14}
+\contentsline {subsection}{\numberline {3.3.1}Purpose}{14}
+\contentsline {subsection}{\numberline {3.3.2}Diagram}{14}
+\contentsline {subsection}{\numberline {3.3.3}Description}{15}
+\contentsline {section}{\numberline {3.4}SEQUENCE DIAGRAM}{15}
+\contentsline {subsection}{\numberline {3.4.1}Purpose}{15}
+\contentsline {subsection}{\numberline {3.4.2}Diagram}{16}
+\contentsline {subsection}{\numberline {3.4.3}Description}{17}
+\contentsline {section}{\numberline {3.5}ACTIVITY DIAGRAM}{17}
+\contentsline {subsection}{\numberline {3.5.1}Purpose}{17}
+\contentsline {subsection}{\numberline {3.5.2}Diagram}{18}
+\contentsline {subsection}{\numberline {3.5.3}Description}{19}
+\contentsline {section}{\numberline {3.6}ER DIAGRAM}{20}
+\contentsline {subsection}{\numberline {3.6.1}Purpose}{20}
+\contentsline {subsection}{\numberline {3.6.2}Diagram}{20}
+\contentsline {subsection}{\numberline {3.6.3}Description}{21}
+\contentsline {section}{\numberline {3.7}DATA FLOW DIAGRAM}{21}
+\contentsline {subsection}{\numberline {3.7.1}Purpose}{21}
+\contentsline {chapter}{\numberline {4}IMPLEMENTATION}{27}
+\contentsline {section}{\numberline {4.1} LANGUAGES AND PLATFORM USED}{27}
+\contentsline {subsection}{\numberline {4.1.1}Android}{28}
+\contentsline {subsubsection}{Architecture}{29}
+\contentsline {subsubsection}{Versions Of Android}{30}
+\contentsline {subsection}{\numberline {4.1.2}Java}{30}
+\contentsline {subsection}{\numberline {4.1.3}PHP}{31}
+\contentsline {section}{\numberline {4.2}METHOD OF IMPLEMENTATION}{31}
+\contentsline {section}{\numberline {4.3}SCREENSHOTS}{34}
+\contentsline {subsection}{\numberline {4.3.1}Welcome page}{34}
+\contentsline {subsection}{\numberline {4.3.2}Sign Up}{35}
+\contentsline {subsection}{\numberline {4.3.3}Sign In}{36}
+\contentsline {subsection}{\numberline {4.3.4}Home screen of consumer}{37}
+\contentsline {subsection}{\numberline {4.3.5}Notification and Bill payment}{38}
+\contentsline {subsection}{\numberline {4.3.6}New connection and Complaint registration}{39}
+\contentsline {subsection}{\numberline {4.3.7}Change password and Help}{40}
+\contentsline {subsection}{\numberline {4.3.8}Home screen of Lineman}{41}
+\contentsline {subsection}{\numberline {4.3.9}Work and history}{42}
+\contentsline {subsection}{\numberline {4.3.10}Administrator (system view)}{43}
+\contentsline {chapter}{\numberline {5}TESTING}{44}
+\contentsline {section}{\numberline {5.1}CODE TESTING}{45}
+\contentsline {section}{\numberline {5.2}PASSWORD TESTING}{45}
+\contentsline {section}{\numberline {5.3}UNIT TESTING}{45}
+\contentsline {section}{\numberline {5.4}INTEGRATION TESTING}{46}
+\contentsline {section}{\numberline {5.5}VALIDATION TESTING}{46}
+\contentsline {section}{\numberline {5.6}SYSTEM TESTING}{47}
+\contentsline {section}{\numberline {5.7}OUTPUT TESTING}{47}
+\contentsline {section}{\numberline {5.8}GOAL OF TESTING}{48}
+\contentsline {section}{\numberline {5.9}PASS/FAIL CRITERIA}{48}
+\contentsline {section}{\numberline {5.10}PASS CRITERIA}{48}
+\contentsline {section}{\numberline {5.11}FAIL CRITERIA}{48}
+\contentsline {section}{\numberline {5.12}TEST REPORT}{49}
+\contentsline {section}{\numberline {5.13}BLACKBOX TESTING}{49}
+\contentsline {chapter}{\numberline {6}FUTURE SCOPE}{51}
+\contentsline {chapter}{\numberline {7}CONCLUSION}{52}
+\contentsline {chapter}{\hspace {0.2in} REFERENCES}{53}
+\contentsline {chapter}{\hspace {0.5cm}APPENDIX}{53}
+\contentsline {chapter}{\hspace {0.2in} GLOSSARY}{70}
+\contentsline {chapter}{\hspace {0.2in} INDEX}{71}
